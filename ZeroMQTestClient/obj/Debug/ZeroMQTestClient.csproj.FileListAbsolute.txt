@@ -1,0 +1,13 @@
+D:\CsharpProjects\ZeroMQTestClient\ZeroMQTestClient\bin\Debug\ZeroMQTestClient.exe.config
+D:\CsharpProjects\ZeroMQTestClient\ZeroMQTestClient\bin\Debug\ZeroMQTestClient.exe
+D:\CsharpProjects\ZeroMQTestClient\ZeroMQTestClient\bin\Debug\ZeroMQTestClient.pdb
+D:\CsharpProjects\ZeroMQTestClient\ZeroMQTestClient\bin\Debug\AsyncIO.dll
+D:\CsharpProjects\ZeroMQTestClient\ZeroMQTestClient\bin\Debug\NetMQ.dll
+D:\CsharpProjects\ZeroMQTestClient\ZeroMQTestClient\obj\Debug\ZeroMQTestClient.csprojAssemblyReference.cache
+D:\CsharpProjects\ZeroMQTestClient\ZeroMQTestClient\obj\Debug\ZeroMQTestClient.ClientZeroMQ.resources
+D:\CsharpProjects\ZeroMQTestClient\ZeroMQTestClient\obj\Debug\ZeroMQTestClient.Properties.Resources.resources
+D:\CsharpProjects\ZeroMQTestClient\ZeroMQTestClient\obj\Debug\ZeroMQTestClient.csproj.GenerateResource.cache
+D:\CsharpProjects\ZeroMQTestClient\ZeroMQTestClient\obj\Debug\ZeroMQTestClient.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\ZeroMQTestClient\ZeroMQTestClient\obj\Debug\ZeroMQTestClient.csproj.CopyComplete
+D:\CsharpProjects\ZeroMQTestClient\ZeroMQTestClient\obj\Debug\ZeroMQTestClient.exe
+D:\CsharpProjects\ZeroMQTestClient\ZeroMQTestClient\obj\Debug\ZeroMQTestClient.pdb
